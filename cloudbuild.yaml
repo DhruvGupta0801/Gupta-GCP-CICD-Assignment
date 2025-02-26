@@ -23,4 +23,4 @@ steps:
       - 'us-central1'
 
 options:
-  logging: REGIONAL_USER_OWNED_BUCKET
+  logging: GCS_AND_STACKDRIVER
